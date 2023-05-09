@@ -20,7 +20,9 @@
 
 Este proyecto aborda conceptos específicos relacionados con la solidez del **algoritmo RSA** y sus posibles vulnerabilidades.
 
-Aunque el algoritmo se considera lo suficientemente robusto frente a la capacidad computacional de los dispositivos actuales, **el uso incorrecto del mismo puede generar serios problemas de seguridad**.
+Aunque el algoritmo se considera lo suficientemente robusto frente a la capacidad computacional de los dispositivos actuales.
+
+ **el uso incorrecto del mismo puede generar serios problemas de seguridad**.
 
 ```
 ## 💡 Concepto del proyecto
